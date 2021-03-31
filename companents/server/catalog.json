@@ -1,0 +1,65 @@
+[
+    {
+        "id": "ell1",
+        "name": "FENDER SQUIER MM STRATOCASTER HARD TAIL BLACK",
+        "img": "https://i.ibb.co/kc0D48L/fender-black-ell1.jpg",
+        "price": 11200
+    },
+    {
+        "id": "ell2",
+        "name": "FENDER SQUIER MM STRATOCASTER HARD TAIL RED",
+        "img": "https://i.ibb.co/YXS6DDm/fender-red-ell2.jpg",
+        "price": 12300
+    },
+    {
+        "id": "ell3",
+        "name": "EPIPHONE LES PAUL SPECIAL VE EBONY VINTAGE",
+        "img": "https://i.ibb.co/ssFv4MR/epiphone-vintage-ell3.jpg",
+        "price": 17500
+    },
+    {
+        "id": "ell4",
+        "name": "IBANEZ GIO GRG121DX-BKF BLACK FLAT",
+        "img": "https://i.ibb.co/b6XbcTG/ibanez-blackflat-ell4.jpg",
+        "price": 19200
+    },
+    {
+        "id": "ell5",
+        "name": "IBANEZ RG421EX-BKF, ЭЛЕКТРОГИТАРА",
+        "img": "https://i.ibb.co/JBdf29s/ibanez-rg421-ell5.jpg",
+        "price": 36000
+    },
+    {
+        "id": "ell6",
+        "name": "EPIPHONE LES PAUL STUDIO LT EBONY",
+        "img": "https://i.ibb.co/HTq7Z0W/epiphone-ebony-ell6.jpg",
+        "price": 25000
+    },
+    {
+        "id": "ell7",
+        "name": "FENDER SQUIER BULLET STRAT HT AWT",
+        "img": "https://i.ibb.co/HTq7Z0W/epiphone-ebony-ell6.jpg",
+        "price": 18900
+    },
+    {
+        "id": "ell8",
+        "name": "FENDER SQUIER BULLET MUSTANG HH BLK",
+        "img": "https://i.ibb.co/mNDp78X/fender-blk-ell8.jpg",
+        "price": 18900
+    },
+    {
+        "id": "ell9",
+        "name": "FENDER SQUIER BULLET TREM HSS BSB",
+        "img": "https://i.ibb.co/KLpZ1cM/fender-hss-ell9.jpg",
+        "price": 18900
+    },
+    {
+        "id": "ell10",
+        "name" : "IBANEZ GRX70QA-TRB",
+        "img": "https://i.ibb.co/VqSrCFT/ibanez-tbr-ell10.jpg",
+        "price": 19200
+    }
+
+    
+]
+
